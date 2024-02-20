@@ -231,7 +231,7 @@ input, select, textarea {
 	/* Set your background with this */
 
 		background: #348cb2 url("images/border-collie-7.jpg") center center;
-		background-repeat: no-repeat;
+		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
 		opacity: 1;
